@@ -85,3 +85,15 @@ src/
 │   ├── getDashboardMetrics.js
 
 ```
+## Application Screenshots
+
+### Dashboard Overview
+
+<img width="800" height="457" alt="image" src="https://github.com/user-attachments/assets/f73d644e-ff06-4099-b8b1-7ef3c20cd851" />
+
+### Table Overview
+<img width="800" height="432" alt="image" src="https://github.com/user-attachments/assets/3625cc06-e4eb-4519-ba8c-c03d3212da7f" />
+
+
+
+
