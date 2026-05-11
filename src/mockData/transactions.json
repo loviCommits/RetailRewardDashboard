@@ -1,0 +1,282 @@
+[
+  {
+    "customerId": "CUST012",
+    "customerName": "Dev Nair",
+    "transactionId": "TXN1034",
+    "amount": 170,
+    "date": "2025-01-04"
+  },
+  {
+    "customerId": "CUST003",
+    "customerName": "Arjun Patel",
+    "transactionId": "TXN1008",
+    "amount": 140,
+    "date": "2025-02-10"
+  },
+  {
+    "customerId": "CUST021",
+    "customerName": "Tanya Arora",
+    "transactionId": "TXN1062",
+    "amount": 240,
+    "date": "2025-01-24"
+  },
+  {
+    "customerId": "CUST001",
+    "customerName": "Rahul Sharma",
+    "transactionId": "TXN1001",
+    "amount": 120,
+    "date": "2025-01-05"
+  },
+  {
+    "customerId": "CUST018",
+    "customerName": "Harsh Vardhan",
+    "transactionId": "TXN1052",
+    "amount": 350,
+    "date": "2025-01-10"
+  },
+  {
+    "customerId": "CUST007",
+    "customerName": "Karan Malhotra",
+    "transactionId": "TXN1020",
+    "amount": 145,
+    "date": "2025-02-11"
+  },
+  {
+    "customerId": "CUST024",
+    "customerName": "Kabir Ahuja",
+    "transactionId": "TXN1071",
+    "amount": 210,
+    "date": "2025-02-09"
+  },
+  {
+    "customerId": "CUST004",
+    "customerName": "Sneha Reddy",
+    "transactionId": "TXN1010",
+    "amount": 260,
+    "date": "2025-01-07"
+  },
+  {
+    "customerId": "CUST009",
+    "customerName": "Rohan Verma",
+    "transactionId": "TXN1027",
+    "amount": 210,
+    "date": "2025-02-28"
+  },
+  {
+    "customerId": "CUST015",
+    "customerName": "Simran Kaur",
+    "transactionId": "TXN1043",
+    "amount": 320,
+    "date": "2025-01-15"
+  },
+  {
+    "customerId": "CUST002",
+    "customerName": "Priya Mehta",
+    "transactionId": "TXN1004",
+    "amount": 160,
+    "date": "2025-01-09"
+  },
+  {
+    "customerId": "CUST020",
+    "customerName": "Manav Jain",
+    "transactionId": "TXN1058",
+    "amount": 230,
+    "date": "2025-01-16"
+  },
+  {
+    "customerId": "CUST011",
+    "customerName": "Aisha Khan",
+    "transactionId": "TXN1031",
+    "amount": 240,
+    "date": "2025-01-13"
+  },
+  {
+    "customerId": "CUST006",
+    "customerName": "Ananya Gupta",
+    "transactionId": "TXN1016",
+    "amount": 210,
+    "date": "2025-01-08"
+  },
+  {
+    "customerId": "CUST025",
+    "customerName": "Lavanya Pillai",
+    "transactionId": "TXN1073",
+    "amount": 175,
+    "date": "2025-01-11"
+  },
+  {
+    "customerId": "CUST013",
+    "customerName": "Pooja Sethi",
+    "transactionId": "TXN1037",
+    "amount": 280,
+    "date": "2025-01-08"
+  },
+  {
+    "customerId": "CUST001",
+    "customerName": "Rahul Sharma",
+    "transactionId": "TXN1002",
+    "amount": 210,
+    "date": "2025-01-18"
+  },
+  {
+    "customerId": "CUST019",
+    "customerName": "Ishita Roy",
+    "transactionId": "TXN1055",
+    "amount": 145,
+    "date": "2025-01-12"
+  },
+  {
+    "customerId": "CUST005",
+    "customerName": "Vikram Singh",
+    "transactionId": "TXN1013",
+    "amount": 150,
+    "date": "2025-01-06"
+  },
+  {
+    "customerId": "CUST022",
+    "customerName": "Siddharth Bose",
+    "transactionId": "TXN1064",
+    "amount": 260,
+    "date": "2025-01-07"
+  },
+  {
+    "customerId": "CUST008",
+    "customerName": "Neha Kapoor",
+    "transactionId": "TXN1022",
+    "amount": 275,
+    "date": "2025-01-14"
+  },
+  {
+    "customerId": "CUST017",
+    "customerName": "Nikita Joshi",
+    "transactionId": "TXN1049",
+    "amount": 125,
+    "date": "2025-01-06"
+  },
+  {
+    "customerId": "CUST014",
+    "customerName": "Yash Kulkarni",
+    "transactionId": "TXN1040",
+    "amount": 155,
+    "date": "2025-01-17"
+  },
+  {
+    "customerId": "CUST010",
+    "customerName": "Meera Iyer",
+    "transactionId": "TXN1028",
+    "amount": 145,
+    "date": "2025-01-11"
+  },
+  {
+    "customerId": "CUST016",
+    "customerName": "Aditya Rao",
+    "transactionId": "TXN1046",
+    "amount": 200,
+    "date": "2025-01-09"
+  },
+  {
+    "customerId": "CUST004",
+    "customerName": "Sneha Reddy",
+    "transactionId": "TXN1011",
+    "amount": 175,
+    "date": "2025-01-28"
+  },
+  {
+    "customerId": "CUST002",
+    "customerName": "Priya Mehta",
+    "transactionId": "TXN1005",
+    "amount": 280,
+    "date": "2025-01-25"
+  },
+  {
+    "customerId": "CUST015",
+    "customerName": "Simran Kaur",
+    "transactionId": "TXN1044",
+    "amount": 210,
+    "date": "2025-01-30"
+  },
+  {
+    "customerId": "CUST008",
+    "customerName": "Neha Kapoor",
+    "transactionId": "TXN1023",
+    "amount": 160,
+    "date": "2025-01-29"
+  },
+  {
+    "customerId": "CUST013",
+    "customerName": "Pooja Sethi",
+    "transactionId": "TXN1038",
+    "amount": 190,
+    "date": "2025-01-22"
+  },
+  {
+    "customerId": "CUST011",
+    "customerName": "Aisha Khan",
+    "transactionId": "TXN1032",
+    "amount": 180,
+    "date": "2025-01-27"
+  },
+  {
+    "customerId": "CUST017",
+    "customerName": "Nikita Joshi",
+    "transactionId": "TXN1050",
+    "amount": 190,
+    "date": "2025-01-21"
+  },
+  {
+    "customerId": "CUST023",
+    "customerName": "Ritika Sen",
+    "transactionId": "TXN1068",
+    "amount": 195,
+    "date": "2025-01-29"
+  },
+  {
+    "customerId": "CUST006",
+    "customerName": "Ananya Gupta",
+    "transactionId": "TXN1017",
+    "amount": 145,
+    "date": "2025-01-23"
+  },
+  {
+    "customerId": "CUST003",
+    "customerName": "Arjun Patel",
+    "transactionId": "TXN1009",
+    "amount": 190,
+    "date": "2025-02-19"
+  },
+  {
+    "customerId": "CUST001",
+    "customerName": "Rahul Sharma",
+    "transactionId": "TXN1003",
+    "amount": 95,
+    "date": "2025-02-08"
+  },
+  {
+    "customerId": "CUST005",
+    "customerName": "Vikram Singh",
+    "transactionId": "TXN1014",
+    "amount": 340,
+    "date": "2025-02-12"
+  },
+  {
+    "customerId": "CUST018",
+    "customerName": "Harsh Vardhan",
+    "transactionId": "TXN1053",
+    "amount": 220,
+    "date": "2025-02-09"
+  },
+  {
+    "customerId": "CUST020",
+    "customerName": "Manav Jain",
+    "transactionId": "TXN1059",
+    "amount": 260,
+    "date": "2025-02-11"
+  },
+  {
+    "customerId": "CUST022",
+    "customerName": "Siddharth Bose",
+    "transactionId": "TXN1065",
+    "amount": 320,
+    "date": "2025-02-05"
+  }
+]

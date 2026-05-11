@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.error-state,
+.empty-state {
+  padding: 24px;
+  border-radius: 12px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.error-state {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.empty-state {
+  background: #f3f4f6;
+  color: #4b5563;
+}

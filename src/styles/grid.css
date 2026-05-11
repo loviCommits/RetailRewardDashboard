@@ -1,0 +1,40 @@
+.customer-detail-tabs {
+  padding: 16px;
+  background: #f8fafc;
+  border-radius: 8px;
+}
+
+.tab-content {
+  padding-top: 16px;
+}
+
+.dx-datagrid {
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.dx-header-row {
+  background-color: #eff6ff;
+  color: #1e3a8a;
+  font-weight: 700;
+}
+
+.dx-row {
+  transition: background 0.2s ease;
+}
+
+.dx-row:hover {
+  background-color: #f9fafb;
+}
+
+.dx-datagrid-headers {
+  border-bottom: 1px solid #dbeafe;
+}
+
+.dx-master-detail-row .dx-master-detail-cell {
+  background: #f8fafc;
+}
+
+.dx-tab {
+  font-weight: 600;
+}
