@@ -36,6 +36,7 @@ The application displays customer transactions, monthly rewards, and spending in
 ---
 
 ## Project Structure
+```txt
 src/
 │
 ├── api/
@@ -82,3 +83,5 @@ src/
 │   ├── calculateRewards.js
 │   ├── transformCustomerData.js
 │   ├── getDashboardMetrics.js
+
+```
